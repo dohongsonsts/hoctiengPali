@@ -1,0 +1,7 @@
+{
+  "name": " PāliSikkhā - Học Tiếng Pāli - Project Sơn 4",
+  "description": "Ứng dụng học ngôn ngữ Pāli chuyên sâu với 1000 bài học",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
